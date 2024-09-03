@@ -1,143 +1,357 @@
-#EXTINF:-1 tvg-id="sundth141060" tvg-name="Sun TV HD" tvg-logo="" group-title="Sundirect", Sun TV HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Suntvhd/free/index.mpd
 
-#EXTINF:-1 tvg-id="sundth" tvg-name="Sun TV HD" tvg-logo="" group-title="Sundirect", Sun TV HDR10 DOLBY VISION 
-https://livestream.sunnxt.com/DolbyVision/SunTV_DV/SunTV_DV_Endpoints/SunTV-HDR10-IN-index.m3u8
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg-url="https://www.dropbox.com/s/n4pbocq9fmwkbc3/cepgepg.xml?dl=1"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+#EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
+#EXTM3U x-tvg-url="https://rstream.me/epg.xml.gz
 
-#EXTINF:-1 tvg-id="sundth141058" tvg-name="Sun Life" tvg-logo="" group-title="Sundirect", Sun Life
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Sunlife/free/index.mpd
 
-#EXTINF:-1 tvg-id="sundth141057" tvg-name="Adithya TV" tvg-logo="" group-title="Sundirect", Adithya TV
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Adithyatv/free/index.mpd
 
-#EXTINF:-1 tvg-id="sundth141050" tvg-name="Kalaignar TV" tvg-logo="" group-title="Sundirect", Kalaignar TV
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/KalaignarTV/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/840.png" group-title="Devotional",Shirdi Sai Baba
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=840
+https://delta45tatasky.akamaized.net/out/i/554.mpd
 
-#EXTINF:-1 tvg-id="sundth141071" tvg-name="Colors Tamil" tvg-logo="" group-title="Sundirect", Colors Tamil
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/ColorsTamil/free/index.mpd
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NRKHNTV_Thumbnail-v1/NRKHNTV_Thumbnail.png" group-title="Devotional",Nireekshana TV
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1378
+https://tplay-mpd.vercel.app/1378.mpd
 
-#EXTINF:-1 tvg-id="sundth143292" tvg-name="Zee Tamil" tvg-logo="" group-title="Sundirect", Zee Tamil
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Zeetamil/free/index.mpd
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BKSR_Thumbnail-v1/BKSR_Thumbnail.png" group-title="Devotional",Bhaktisagar
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1372
+https://delta45tatasky.akamaized.net/out/i/1611.mpd
 
-#EXTINF:-1 tvg-id="sundth141070" tvg-name="Sun Music HD" tvg-logo="" group-title="Sundirect", Sun Music HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Sunmusichd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DHARSANTV_Thumbnail-v1/DHARSANTV_Thumbnail.png" group-title="Devotional",DHARSAN TV
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1382
+https://tplay-mpd.vercel.app/1382.mpd
 
-#EXTINF:-1 tvg-id="sundth141049" tvg-name="Gemini TV HD" tvg-logo="" group-title="Sundirect", Gemini TV HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Geminitvhd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/842.png" group-title="Devotional",Somnath Temple
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=842
+https://delta45tatasky.akamaized.net/out/i/722.mpd
 
-#EXTINF:-1 tvg-id="sundth141125" tvg-name="Gemini Movies HD" tvg-logo="" group-title="Sundirect", Gemini Movies HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Geminimovieshd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BVG_Thumbnail-v1/BVG_Thumbnail.png" group-title="Lifestyle",BVG
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1371
+https://delta45tatasky.akamaized.net/out/i/1622.mpd
 
-#EXTINF:-1 tvg-id="sundth141132" tvg-name="ETV HD" tvg-logo="" group-title="Sundirect", ETV HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Etvhd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/121.png" group-title="Lifestyle",Tata Play Fitness
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=121
+https://tplay-mpd.vercel.app/121.mpd
 
-#EXTINF:-1 tvg-id="sundth141127" tvg-name="Gemini Comedy" tvg-logo="" group-title="Sundirect", Gemini Comedy
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Geminicomedy/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/618.png" group-title="Lifestyle",Tata Play Beauty
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=618
+https://tplay-mpd.vercel.app/618.mpd
 
-#EXTINF:-1 tvg-id="sundth143293" tvg-name="Zee Telugu HD" tvg-logo="" group-title="Sundirect", Zee Telugu HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Zeeteluguhd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/641.png" group-title="Lifestyle",Tata Play Cooking
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=641
+https://tplay-mpd.vercel.app/641.mpd
 
-#EXTINF:-1 tvg-id="sundth141126" tvg-name="Gemini Life" tvg-logo="" group-title="Sundirect", Gemini Life
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Geminilife/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/959.png" group-title="Movies",Tata Play Romance
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=959
+https://tplay-mpd.vercel.app/959.mpd
 
-#EXTINF:-1 tvg-id="sundth141045" tvg-name="Gemini Music HD" tvg-logo="" group-title="Sundirect", Gemini Music HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Geminimusichd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/8.png" group-title="Entertainment",STAR Plus HD
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=8
+https://tplay-mpd.vercel.app/8.mpd
 
-#EXTINF:-1 tvg-id="sundth141046" tvg-name="Surya TV HD" tvg-logo="" group-title="Sundirect", Surya TV HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Suryatvhd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/244.png" group-title="Entertainment",Star Bharat HD
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=244
+https://tplay-mpd.vercel.app/244.mpd
 
-#EXTINF:-1 tvg-id="sundth143260" tvg-name="Surya Movies" tvg-logo="" group-title="Sundirect", Surya Movies
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Suryamovies/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/15.png" group-title="Entertainment",SET HD
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=15
+https://tplay-mpd.vercel.app/15.mpd
 
-#EXTINF:-1 tvg-id="sundth141096" tvg-name="Mazhavil Manorama HD" tvg-logo="" group-title="Sundirect", Mazhavil Manorama HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Mazhavilmanoramahd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/556.png" group-title="Entertainment",SET
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=556
+https://tplay-mpd.vercel.app/556.mpd
 
-#EXTINF:-1 tvg-id="sundth143259" tvg-name="Surya Comedy" tvg-logo="" group-title="Sundirect", Surya Comedy
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Suryacomedy/free/index.mpd
+#EXTINF:-1 tvg-id="ts48" tvg-logo="https://bigcchubchat.pages.dev/48.png" group-title="Entertainment",SONY SAB HD
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF:-1 tvg-id="sundth141128" tvg-name="Flowers TV" tvg-logo="" group-title="Sundirect", Flowers TV
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/FlowersTV/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/559.png" group-title="Entertainment",SONY SAB
+#EXTVLCOPT:http-user-agent=@RioIptv
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF:-1 tvg-id="sundth143287" tvg-name="Zee Keralam" tvg-logo="" group-title="Sundirect", Zee Keralam
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/ZeeKeralam/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/40.png" group-title="Entertainment",&tv HD
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=40
+https://tplay-mpd.vercel.app/40.mpd
 
-#EXTINF:-1 tvg-id="sundth141170" tvg-name="Amrita TV" tvg-logo="" group-title="Sundirect", Amrita TV
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Amritatv/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/578.png" group-title="Entertainment",&TV
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=578
+https://tplay-mpd.vercel.app/578.mpd
 
-#EXTINF:-1 tvg-id="sundth143277" tvg-name="Udaya TV HD" tvg-logo="" group-title="Sundirect", Udaya TV HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Udayatvhd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/63.png" group-title="Entertainment",Zee TV HD
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=63
+https://tplay-mpd.vercel.app/63.mpd
 
-#EXTINF:-1 tvg-id="sundth141149" tvg-name="Colors Kannada HD" tvg-logo="" group-title="Sundirect", Colors Kannada HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/ColorsKannadaHD/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/557.png" group-title="Entertainment",Zee TV
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=557
+https://tplay-mpd.vercel.app/557.mpd
 
-#EXTINF:-1 tvg-id="sundth143275" tvg-name="Udaya Movies" tvg-logo="" group-title="Sundirect", Udaya Movies
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Udayamovies/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/811.png" group-title="Hindi",Tata Play Adbhut Kahaniyan
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=811
+https://tplay-mpd.vercel.app/811.mpd
 
-#EXTINF:-1 tvg-id="sundth143286" tvg-name="Zee Kannada HD" tvg-logo="" group-title="Sundirect", Zee Kannada HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Zeekannadahd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/52.png" group-title="Entertainment",Colors HD
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drmlive.in/jiotv/play.php?id=144
+https://tplay-mpd.vercel.app/52.mpd
 
-#EXTINF:-1 tvg-id="sundth143276" tvg-name="Udaya Music" tvg-logo="" group-title="Sundirect", Udaya Music
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Udayamusic/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/543.png" group-title="Entertainment",Colors
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=543
+https://tplay-mpd.vercel.app/543.mpd
 
-#EXTINF:-1 tvg-id="sundth141151" tvg-name="Colors HD" tvg-logo="" group-title="Sundirect", Colors HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Colorshd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/95.png" group-title="Entertainment",Tata Play Javed Akhtar
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=95
+https://tplay-mpd.vercel.app/95.mpd
 
-#EXTINF:-1 tvg-id="sundth143294" tvg-name="Zee TV HD" tvg-logo="" group-title="Sundirect", Zee TV HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Zeetvhd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/943.png" group-title="Entertainment",Tata Play Videshi Kahaniyan
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=943
+https://tplay-mpd.vercel.app/943.mpd
 
-#EXTINF:-1 tvg-id="sundth143213" tvg-name="&TV HD" tvg-logo="" group-title="Sundirect", &TV HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Andtvhd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/964.png" group-title="Movies",Tata Play Classic TV
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=964
+https://tplay-mpd.vercel.app/964.mpd
 
-#EXTINF:-1 tvg-id="sundth143263" tvg-name="Sony Sports Ten 3" tvg-logo="" group-title="Sundirect", Sony Sports Ten 3
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/SonySportsTen3/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/142.png" group-title="Entertainment",UTV Bindass
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=142
+https://tplay-mpd.vercel.app/142.mpd
 
-#EXTINF:-1 tvg-id="sundth141157" tvg-name="Chutti TV" tvg-logo="" group-title="Sundirect", Chutti TV
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Chuttitv/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/986.png" group-title="Entertainment",Tata Play Zindagi
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=986
+https://tplay-mpd.vercel.app/986.mpd
 
-#EXTINF:-1 tvg-id="sundth141102" tvg-name="Kushi TV" tvg-logo="" group-title="Sundirect", Kushi TV
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Kushitv/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/1276.png" group-title="Entertainment",Investigation Discovery HD
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1276
+https://tplay-mpd.vercel.app/1276.mpd
 
-#EXTINF:-1 tvg-id="sundth141104" tvg-name="Kochu TV" tvg-logo="" group-title="Sundirect", Kochu TV
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Kochutv/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/633.png" group-title="Entertainment",Investigation Discovery
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=633
+https://tplay-mpd.vercel.app/633.mpd
 
-#EXTINF:-1 tvg-id="sundth141158" tvg-name="Chintu TV" tvg-logo="" group-title="Sundirect", Chintu TV
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Chintutv/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/551.png" group-title="Entertainment",STAR Utsav
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=551
+https://tplay-mpd.vercel.app/551.mpd
 
-#EXTINF:-1 tvg-id="sundth141140" tvg-name="Discovery HD" tvg-logo="" group-title="Sundirect", Discovery HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Discoveryhd/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/523.png" group-title="Entertainment",Zee Anmol
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=523
+https://tplay-mpd.vercel.app/523.mpd
 
-#EXTINF:-1 tvg-id="sundth143256" tvg-name="Sun Bangla HD" tvg-logo="" group-title="Sundirect", Sun Bangla HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Sunbangla/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/438.png" group-title="Entertainment",Colors Rishtey
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=438
+https://tplay-mpd.vercel.app/438.mpd
 
-#EXTINF:-1 tvg-id="sundth143257" tvg-name="Sun Marathi HD" tvg-logo="" group-title="Sundirect", Sun Marathi HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Sunmarathi/free/index.mpd
+#EXTINF:-1 tvg-id="ts554" tvg-logo="https://bigcchubchat.pages.dev/554.png" group-title="Entertainment",Sony Pal
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sundth141148" tvg-name="Colors Marathi HD" tvg-logo="" group-title="Sundirect", Colors Marathi HD
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/ColorsMarathiHD/free/index.mpd
+#EXTINF: -1 tvg-logo="https://i.ibb.co/1ZQw69d/20240504-011023.png" group-title="Entertainment", Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sundth143244" tvg-name="Sony Marathi" tvg-logo="" group-title="Sundirect", Sony Marathi
-https://sundirect.pc.cdn.bitgravity.com/bpk-tv/SonyMarathi/free/index.mpd
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/54.png" group-title="Entertainment",The Q
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=54
+https://tplay-mpd.vercel.app/54.mpd
 
-#EXTINF:-1 tvg-id="sun195491" tvg-name="Sun TV HD - Dolby Vision" tvg-logo="" group-title="Sunnxt", Sun TV HD - Dolby Vision
-https://livestream10.sunnxt.com/DolbyVision/SunTV_DV/SunTV_DV_Endpoints/SunTV-DV-IN-index.m3u8
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/297.png" group-title="Entertainment",Big Magic
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=297
+https://tplay-mpd.vercel.app/297.mpd
 
-#EXTINF:-1 tvg-id="sun195490" tvg-name="Gemini TV HD - Dolby Vision" tvg-logo="" group-title="Sunnxt", Gemini TV HD - Dolby Vision
-https://livestream11.sunnxt.com/DolbyVision/GeminiTV_DV/GeminiTV_DV_Endpoints/GeminiTV-DV-IN-index.m3u8
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/51.png" group-title="Entertainment",Dangal
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=51
+https://tplay-mpd.vercel.app/51.mpd
 
-#EXTINF:-1 tvg-id="sun195489" tvg-name="Surya TV HD - Dolby Vision" tvg-logo="" group-title="Sunnxt", Surya TV HD - Dolby Vision
-https://livestream12.sunnxt.com/DolbyVision/SuryaTV_DV/SuryaTV_DV_Endpoints/SuryaTV-DV-IN-index.m3u8
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/180.png" group-title="Entertainment",Anjan TV
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=180
+https://tplay-mpd.vercel.app/180.mpd
 
-#EXTINF:-1 tvg-id="sun194411" tvg-name="Udaya TV HD - Dolby Vision" tvg-logo="" group-title="Sunnxt", Udaya TV HD - Dolby Vision
-https://livestream13.sunnxt.com/DolbyVision/UdayaTV_DV/UdayaTV_DV_Endpoints/UdayaTV-DV-IN-index.m3u8
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/818.png" group-title="Entertainment",Shemaroo TV
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=818
+https://tplay-mpd.vercel.app/818.mpd
 
-#EXTINF:-1 tvg-id="sun195491" tvg-name="Sun TV HD - Dolby Vision" tvg-logo="" group-title="Sunnxt", Sun TV HD - Dolby Vision
-https://livestream10.sunnxt.com/DolbyVision/SunTV_DV/SunTV_DV_Endpoints/SunTV-HDR10-IN-index.m3u8
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/874.png" group-title="Music",Deployment channel 19.0
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=874
+https://tataskyvod.pc.cdn.bitgravity.com/delta14/out/i/7976503.mpd
 
-#EXTINF:-1 tvg-id="sun195490" tvg-name="Gemini TV HD - Dolby Vision" tvg-logo="" group-title="Sunnxt", Gemini TV HD - Dolby Vision
-https://livestream11.sunnxt.com/DolbyVision/GeminiTV_DV/GeminiTV_DV_Endpoints/GeminiTV-HDR10-IN-index.m3u8
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/888.png" group-title="Entertainment",Ishara
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=888
+https://tplay-mpd.vercel.app/888.mpd
 
-#EXTINF:-1 tvg-id="sun195489" tvg-name="Surya TV HD - Dolby Vision" tvg-logo="" group-title="Sunnxt", Surya TV HD - Dolby Vision
-https://livestream12.sunnxt.com/DolbyVision/SuryaTV_DV/SuryaTV_DV_Endpoints/SuryaTV-HDR10-IN-index.m3u8
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/1045.png" group-title="Entertainment",Shemaroo UMANG
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1045
+https://tplay-mpd.vercel.app/1045.mpd
 
-#EXTINF:-1 tvg-id="sun194411" tvg-name="Udaya TV HD - Dolby Vision" tvg-logo="" group-title="Sunnxt", Udaya TV HD - Dolby Vision
-https://livestream13.sunnxt.com/DolbyVision/UdayaTV_DV/UdayaTV_DV_Endpoints/UdayaTV-HDR10-IN-index.m3u8
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/965.png" group-title="Entertainment",Manoranjan Grand
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=965
+https://tplay-mpd.vercel.app/965.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/1269.png" group-title="Entertainment",Chumbak TV
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1269
+https://tplay-mpd.vercel.app/1269.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/191.png" group-title="Entertainment",DD National
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=191
+https://tplay-mpd.vercel.app/191.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/326.png" group-title="Educational",DD Kisan
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=326
+https://tplay-mpd.vercel.app/326.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/808.png" group-title="Entertainment",Tata Play Hits
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=808
+https://tplay-mpd.vercel.app/808.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/187.png" group-title="English",Colors Infinity HD
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=187
+https://tplay-mpd.vercel.app/187.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/307.png" group-title="English",Comedy Central HD
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=307
+https://tplay-mpd.vercel.app/307.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/306.png" group-title="English",Comedy Central
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=306
+https://tplay-mpd.vercel.app/306.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/1101.png" group-title="Entertainment",Woman
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1101
+https://tplay-mpd.vercel.app/1101.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/544.png" group-title="English",Colors Infinity
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=544
+https://tplay-mpd.vercel.app/544.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/486.png" group-title="Movies",Tata Play Bollywood Premiere
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=486
+https://tplay-mpd.vercel.app/486.mpd
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/789.png" group-title="Movies",Tata Play Hollywood Local Hindi
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=789
+https://tplay-mpd.vercel.app/789.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9n8yVPr/20240503-233830.png" group-title="Movies",STAR GOLD HD
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=245
+https://tplay-mpd.vercel.app/245.mpd
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/KD32Z9p/20240504-002721.png" group-title="Movies",Star Gold 2 HD 
+http://sansat.net:25461/02028857936892/0751169096/96343
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/RTbJD13/20240405-105314.png" group-title="Movies",Star Gold Select HD 
+http://sansat.net:25461/02028857936892/0751169096/96175
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Q8CDcRf/20240503-234810.png" group-title="Movies",Star Gold Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://port.denver1769.in/j.php?tv=227
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1rn31dY/20240504-002318.png" group-title="Movies",Star Gold Thrills
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://port.denver1769.in/j.php?tv=238
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/CnfdVQV/20240614-171818.png" group-title="Movies",Star Utsav Movies 
+http://sansat.net:25461/02028857936892/0751169096/96178
+
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/1130.png" group-title="Movies",Tata Play Bollywood Masala
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_
